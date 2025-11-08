@@ -1,1 +1,1 @@
-# smart-lock
+# Logical Design Project
